@@ -38,7 +38,7 @@ Este projeto demonstra o funcionamento de um **amplificador operacional não-inv
 2. **Selecionando o arquivo de áudio (.wav)**  
    - Clique duas vezes sobre o componente de entrada de áudio (Speaker ou Signal Generator).
    - No campo `Wave File`, clique no ícone de pasta.
-   - Selecione o arquivo `palm.wav` presente na pasta `audio/`.
+   - Selecione o arquivo `Single-Clap-Sound-Effect-_Free-Copyright_.wav` presente na pasta `audio para amplificação/`.
    - **Opcional**: você pode substituir por outro `.wav`, desde que seja mono, 16-bit PCM, e com amostragem compatível (ex: 44.1kHz).
 
 3. **Inicie a simulação**  
